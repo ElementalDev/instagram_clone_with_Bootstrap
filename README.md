@@ -1,20 +1,21 @@
-# CSS Lab
+# Instagram Clone Sign up Page
 
-## Timings
+## What is it?:
 
-This lab should take one to two hours.
+This is an clone of the instagram sign in page, including images, buttons and inputs you would normally find on the origin page.
 
-## Summary
+Several commits were made to make sure there is a good history of changes made, incase I need to revert back to one of them.
 
-Creating complex looking pages is not as hard as you might think. Recreate the following page using only CSS and HTML.
+The editor I used is Atom, using only HTML and CSS.
 
-![Image of instagram login page](instagram.png)
+Please enjoy viewing it as much as I enjoyed creating it!
 
-You can use the developer console in your browser to get colours, pixel sizes and fonts etc from the real site.
+## How to use:
 
+1. Download the files to your computer - either clone the repo or download it.
+	• Windows/Mac OSX - Download repo or clone from GitHub
+	• Mac OSX/Linux/Other - install git and use the "git clone" command to clone the repository
 
-## Notes
-
-* Think about the flow of the page. Avoid absolute positioning unless it is completely necessary.
-* Keep your CSS as simple as possible. There are very few parts of the page that should require more than three or four lines of CSS.
-* Keep your HTML simple. Think about how you could split the page in to blocks.
+2. Open the index.html file
+	• Windows/Mac OSX - Double click or drag and drop the file into a browser
+	• Mac OSX/Linux/Other - cd to the downloaded file and type "open index.html"
